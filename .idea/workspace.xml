@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/牛客剑指offer编程题/求1到n的和.java" line="12" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e1553d-5892-460b-91b2-3029842d74ed" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/exercise$MultiThreadArraySum2.ic" NAME="MultiThreadArraySum2 Coverage Results" MODIFIED="1564366608244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.ThreadSum.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/力扣/两数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex1/Testjj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数值的整数次方.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/不用加减乘除做两数之和.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/PostTree.java" />
+        <option value="$PROJECT_DIR$/src/heapSort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/heapSort/HeapSort2.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/重建二叉树.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/链表的倒数第k个节点.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中只出现一次的数.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中出现次数超过数组长度一半的数字.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的镜像.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/整数中1出现的次数.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/合并两个排序的链表.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/从上往下打印二叉树.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的深度.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/之字形打印二叉树.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/oo/求后续遍历.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LinkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/MyLinkedListStack.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/MyStack1.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/滴滴笔试/算式转移.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/queue/MyLinkedListQueue.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LinkedList/handlerMethiodLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/oo/ShouSub.java" />
+        <option value="$PROJECT_DIR$/src/ccf_csp/小中大.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/最小的k个数.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/vipkid/列表相加.java" />
+        <option value="$PROJECT_DIR$/src/笔试题/快手/T2.java" />
+        <option value="$PROJECT_DIR$/src/ccf_csp/A.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的逆序数对.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/树的子结构.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/和为S的两个数.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/求1到n的和.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/删除链表中重复的节点.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/单链表找环入口.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树中序遍历的下一个节点.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的重复数字.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/两个链表的第一个公共节点.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/src/牛客剑指offer编程题/左旋转字符串.java" />
+        <option value="$PROJECT_DIR$/src/ex1/Testjj.java" />
+        <option value="$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/力扣/两数之和.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="884" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="力扣" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565260105360" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\exercise\src\牛客剑指offer编程题" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RandomDoubleBall.test">
+    <configuration name="小中大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ccf_csp.小中大" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccf_csp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testjj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.Testjj" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中只出现一次的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.数组中只出现一次的数" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.重建二叉树" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="不用加减乘除做两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.不用加减乘除做两数之和" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组奇数在前偶数在后" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.数组奇数在前偶数在后" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomDoubleBall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheDoubleChromospherePlan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TheDoubleChromospherePlan" />
+      <option name="MAIN_CLASS_NAME" value="TheDoubleChromospherePlan.RandomDoubleBall" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomDoubleBall.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheDoubleChromospherePlan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TheDoubleChromospherePlan" />
+      <option name="MAIN_CLASS_NAME" value="TheDoubleChromospherePlan.RandomDoubleBall" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除链表中重复的节点" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.删除链表中重复的节点" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转单词顺序" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.翻转单词顺序" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转单链表" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.反转单链表" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组奇数在前偶数在后.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.数组奇数在前偶数在后" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两个链表的第一个公共节点.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.两个链表的第一个公共节点" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除链表中重复的节点.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.删除链表中重复的节点" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转单词顺序.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.翻转单词顺序" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转单链表.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.反转单链表" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转单链表.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.反转单链表" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_exercise" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59500" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.小中大" />
+      <item itemvalue="Application.Testjj" />
+      <item itemvalue="JUnit.数组奇数在前偶数在后.test" />
+      <item itemvalue="JUnit.数组奇数在前偶数在后" />
+      <item itemvalue="JUnit.RandomDoubleBall.test" />
+      <item itemvalue="JUnit.RandomDoubleBall" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RandomDoubleBall.test" />
+        <item itemvalue="JUnit.RandomDoubleBall" />
+        <item itemvalue="Application.Testjj" />
+        <item itemvalue="JUnit.数组奇数在前偶数在后" />
+        <item itemvalue="JUnit.数组奇数在前偶数在后.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e1553d-5892-460b-91b2-3029842d74ed" name="Default" comment="" />
+      <created>1542766023995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542766023995</updated>
+      <workItem from="1542766027137" duration="7809000" />
+      <workItem from="1542846339915" duration="1228000" />
+      <workItem from="1542865214673" duration="4098000" />
+      <workItem from="1542884226529" duration="1833000" />
+      <workItem from="1542934501582" duration="7039000" />
+      <workItem from="1542975354781" duration="3190000" />
+      <workItem from="1543027168542" duration="1189000" />
+      <workItem from="1543047275836" duration="2657000" />
+      <workItem from="1543139970306" duration="1144000" />
+      <workItem from="1543391109089" duration="151000" />
+      <workItem from="1543539264779" duration="13725000" />
+      <workItem from="1543639649437" duration="5584000" />
+      <workItem from="1544683749124" duration="669000" />
+      <workItem from="1544928851071" duration="523000" />
+      <workItem from="1544961428679" duration="21000" />
+      <workItem from="1547199428900" duration="5305000" />
+      <workItem from="1547264655579" duration="586000" />
+      <workItem from="1551878902883" duration="24000" />
+      <workItem from="1562049387114" duration="7334000" />
+      <workItem from="1562115282604" duration="7238000" />
+      <workItem from="1562125550743" duration="465000" />
+      <workItem from="1562203257300" duration="1889000" />
+      <workItem from="1562222080614" duration="10531000" />
+      <workItem from="1562288332383" duration="4535000" />
+      <workItem from="1562750428364" duration="95000" />
+      <workItem from="1562894980466" duration="6689000" />
+      <workItem from="1563170722147" duration="689000" />
+      <workItem from="1564105589269" duration="9525000" />
+      <workItem from="1564361839375" duration="14896000" />
+      <workItem from="1564470377111" duration="9872000" />
+      <workItem from="1564534140277" duration="8332000" />
+      <workItem from="1564565252589" duration="595000" />
+      <workItem from="1564621799953" duration="20958000" />
+      <workItem from="1564714658382" duration="2672000" />
+      <workItem from="1565087505307" duration="7354000" />
+      <workItem from="1565142149734" duration="2766000" />
+      <workItem from="1565155529601" duration="599000" />
+      <workItem from="1565185405111" duration="4122000" />
+      <workItem from="1565226817783" duration="3653000" />
+      <workItem from="1565258233319" duration="25000" />
+      <workItem from="1565258891719" duration="1635000" />
+      <workItem from="1565263982282" duration="60000" />
+      <workItem from="1565277213341" duration="32000" />
+      <workItem from="1565360006444" duration="731000" />
+      <workItem from="1565423840158" duration="19105000" />
+      <workItem from="1565490887601" duration="20912000" />
+      <workItem from="1565584434424" duration="711000" />
+      <workItem from="1565607460222" duration="606000" />
+      <workItem from="1565781851134" duration="648000" />
+      <workItem from="1565783901612" duration="3879000" />
+      <workItem from="1565837756043" duration="1572000" />
+      <workItem from="1565855696984" duration="9976000" />
+      <workItem from="1565924770901" duration="3444000" />
+      <workItem from="1566187677654" duration="6941000" />
+      <workItem from="1566212282121" duration="5870000" />
+      <workItem from="1566274227098" duration="5679000" />
+      <workItem from="1566300976762" duration="7958000" />
+      <workItem from="1566351433232" duration="4058000" />
+      <workItem from="1566387481727" duration="5643000" />
+      <workItem from="1566442751627" duration="3845000" />
+      <workItem from="1566460354200" duration="1227000" />
+      <workItem from="1566474121578" duration="1501000" />
+      <workItem from="1566559259686" duration="3243000" />
+      <workItem from="1566617589790" duration="13387000" />
+      <workItem from="1566701817423" duration="5916000" />
+      <workItem from="1566791901637" duration="2792000" />
+      <workItem from="1566813611642" duration="3744000" />
+      <workItem from="1566897678570" duration="3532000" />
+      <workItem from="1566984563646" duration="4398000" />
+      <workItem from="1567215322092" duration="2737000" />
+      <workItem from="1567341121850" duration="1315000" />
+      <workItem from="1567516016807" duration="1320000" />
+      <workItem from="1568271489867" duration="50000" />
+      <workItem from="1568274251048" duration="3589000" />
+      <workItem from="1568340713618" duration="2734000" />
+      <workItem from="1568372977895" duration="1631000" />
+      <workItem from="1568430159590" duration="1396000" />
+      <workItem from="1568523364891" duration="651000" />
+      <workItem from="1568557614985" duration="256000" />
+      <workItem from="1568595993608" duration="102000" />
+      <workItem from="1568623300850" duration="3528000" />
+      <workItem from="1568639436011" duration="2308000" />
+      <workItem from="1569121018391" duration="245000" />
+      <workItem from="1569209046277" duration="532000" />
+      <workItem from="1569391602541" duration="1557000" />
+      <workItem from="1569550870721" duration="326000" />
+      <workItem from="1570790988759" duration="2020000" />
+      <workItem from="1570885817352" duration="4510000" />
+      <workItem from="1570936243963" duration="2647000" />
+      <workItem from="1570954605900" duration="5176000" />
+      <workItem from="1571038024084" duration="9245000" />
+      <workItem from="1571106707333" duration="9185000" />
+      <workItem from="1571307095949" duration="3777000" />
+      <workItem from="1571481976029" duration="2703000" />
+      <workItem from="1571549359776" duration="655000" />
+      <workItem from="1572230164391" duration="24000" />
+      <workItem from="1572781790573" duration="899000" />
+      <workItem from="1573218525310" duration="278000" />
+      <workItem from="1581138146297" duration="236000" />
+      <workItem from="1582683375428" duration="3115000" />
+      <workItem from="1582687659411" duration="3439000" />
+      <workItem from="1589167546691" duration="681000" />
+      <workItem from="1589250421931" duration="5608000" />
+      <workItem from="1589521076502" duration="606000" />
+      <workItem from="1589860653520" duration="52000" />
+      <workItem from="1590896051999" duration="662000" />
+      <workItem from="1592712627026" duration="1218000" />
+      <workItem from="1593692496143" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RandomDoubleBall - 2020.05.12 at 11h 27m 45s.xml">
+      <configuration name="RandomDoubleBall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall - 2020.05.12 at 11h 27m 49s.xml">
+      <configuration name="RandomDoubleBall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall - 2020.05.12 at 11h 27m 53s.xml">
+      <configuration name="RandomDoubleBall" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.19 at 11h 57m 46s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.19 at 11h 58m 10s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.31 at 11h 34m 24s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.31 at 11h 34m 43s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.31 at 11h 34m 52s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.05.31 at 11h 35m 15s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomDoubleBall_test - 2020.06.21 at 12h 10m 42s.xml">
+      <configuration name="RandomDoubleBall.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="406378000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.175" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28899837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37602627" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28968903" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45171848" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructure/sort/InsertionSort.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicProgramming/MaxSubArray.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/heapSort/HeapSort.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/heapSort/HeapSort.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>12321</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/FactoryB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/TestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="143" column="47" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ccf_csp/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/IFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/observer/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/observer/ConcreteSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/包含min函数的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/删除链表中重复的节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组中出现次数超过数组长度一半的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的逆序数对.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/最小的k个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树中序遍历的下一个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的后序遍历序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/单链表找环入口.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/合并两个排序的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/和为S的两个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的重复数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/数值的整数次方.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/树的子结构.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/求1到n的和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/链表的倒数第k个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/从上往下打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/不用加减乘除做两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/两个链表的第一个公共节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中的重复数字.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数值的整数次方.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树的后序遍历序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/链表的倒数第k个节点.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/整数中1出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中的逆序数对.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树中序遍历的下一个节点.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/包含min函数的栈.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex0/Testjojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/最小的k个数.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/单链表找环入口.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客剑指offer编程题/左旋转字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex1/Testjj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/力扣/两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exercise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
