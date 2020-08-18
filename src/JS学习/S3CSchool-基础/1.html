@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--    <p>JavaScript能够直接写入Html输出流中</p>-->
+<!--    <script>-->
+<!--        document.write("<h1>这是一个标题</h1>");-->
+<!--        document.write("<p>这是一个段落</p>");-->
+<!--    </script>-->
+<!--    <p>-->
+<!--        只能在Html 的输出流中使用<Strong>document.write</Strong>，如果在文档加载完后使用他，会覆盖整个文档。-->
+<!--    </p>-->
+
+<!--    <h1>-->
+<!--        我的第一个JavaScript-->
+<!--    </h1>-->
+<!--    <p>-->
+<!--        JavaScript能够对事件作出反应。比如对按钮的点击：-->
+<!--    </p>-->
+<!--    <button type="button" onclick="alert('welcome JavaScript')">button</button>-->
+
+<!--    <h>我的第一个JavaScript</h>-->
+<!--    <p id="demo">-->
+<!--        JavaSccript能够改变Html元素的内容-->
+<!--    </p>-->
+<!--    <script>-->
+<!--        function myFunction()-->
+<!--        {-->
+<!--            x = document.getElementById("demo");    //找到元素-->
+<!--            x.innerHTML = "Hello JavaScript";   //改变内容-->
+<!--        }-->
+<!--    </script>-->
+<!--    <button type="button" onclick="myFunction()">按钮</button>-->
+
+
+<!--    <script>-->
+<!--        function changeImage()-->
+<!--        {-->
+<!--            element=document.getElementById('myimage')-->
+<!--            if (element.src.match("bulbon"))-->
+<!--            {-->
+<!--                element.src="/statics/images/course/pic_bulboff.gif";-->
+<!--            }-->
+<!--            else-->
+<!--            {-->
+<!--                element.src="/statics/images/course/pic_bulbon.gif";-->
+<!--            }-->
+<!--        }-->
+<!--    </script>-->
+<!--    <img id="myimage" onclick="changeImage()"-->
+<!--         src="/statics/images/course/pic_bulboff.gif" width="100" height="180">-->
+<!--    <p>点击灯泡就可以打开或关闭这盏灯</p>-->
+
+
+<!--    <h1>我的第一段JavaScript</h1>-->
+<!--    <p id="demo">-->
+<!--        JavaScript能改变Html的样式-->
+<!--    </p>-->
+<!--    <script>-->
+<!--        function myFunction(){-->
+<!--            x = document.getElementById("demo");-->
+<!--            x.style.color = "#8ff324";-->
+<!--        }-->
+<!--    </script>-->
+<!--    <button type="button" onclick="myFunction()">ChangeColor</button>-->
+
+
+<!--    <h1>我的第一段JavaScript</h1>-->
+<!--    <p>请输入数字，如果输入的不是数字，浏览器会弹出提示框</p>-->
+<!--    <input id="demo" type="text">-->
+<!--    <script>-->
+<!--        function myFunction(){-->
+<!--            var x = document.getElementById("demo").value;-->
+<!--            if (x==""||isNaN(x)){-->
+<!--                alert("不是数字！");-->
+<!--            }-->
+<!--        }-->
+<!--    </script>-->
+<!--    <button type="button" onclick="myFunction()">瞅啥，点啊</button>-->
+
+
+<!--    <h1>我的第一个页面</h1>-->
+<!--    <P>我的第一个段落</P>-->
+<!--    <p id="demo">我的第二个段落</p>-->
+<!--    <script>-->
+<!--        window.alert(5+6);-->
+<!--        document.getElementById("demo").innerHTML = "段落已修改";-->
+<!--        document.write(Date());-->
+
+<!--        function myFunction(){-->
+<!--            document.write(Date());-->
+<!--        }-->
+<!--    </script>-->
+<!--    <button type="button" onclick="myFunction()">瞅啥，点啊</button>-->
+
+
+<!--    <h1>我的第一个web页面</h1>-->
+<!--    <script>-->
+<!--        a = 5;-->
+<!--        b = 6;-->
+<!--        c = a + b;-->
+<!--        console.log(c);-->
+<!--    </script>-->
+
+<!--    <p id="demo"></p>-->
+<!--    <p id="demo1"></p>-->
+<!--    <p id="demo2"></p>-->
+<!--    <p id="demo3"></p>-->
+<!--    <p id="demo4"></p>-->
+<!--    <p id="demo5"></p>-->
+<!--    <p id="demo6"></p>-->
+<!--    <script>-->
+<!--        document.getElementById("demo").innerHTML = 123e5;-->
+<!--        document.getElementById("demo1").innerHTML = "Jojo Lee";-->
+<!--        document.getElementById("demo2").innerHTML = 5*10;-->
+<!--        var length = 6;-->
+<!--        document.getElementById("demo3").innerHTML = length;-->
+<!--        document.getElementById("demo4").innerHTML = (5 + 6) * 10;-->
+<!--        var x = 5, y =3, z = (x + y) * 10;-->
+<!--        document.getElementById("demo5").innerHTML = z;-->
+<!--        document.getElementById("demo6").innerHTML = "hello Daily";-->
+<!--        -->
+<!--    </script>-->
+
+    <!--<h1>我的网页</h1>-->
+    <!--<p id="demo1"></p>-->
+    <!--<p id="demo2"></p>-->
+    <!--<p id="demo3"></p>-->
+    <!--<p id="demo4"></p>-->
+    <!--<p id="demo5"></p>-->
+    <!--<p id="demo6"></p>-->
+    <!--<p id="demo7"></p>-->
+    <!--<p id="demo8"></p>-->
+    <!--<p id="demo9"></p>-->
+    <!--<script>-->
+        <!--document.getElementById("demo1").innerHTML = "欢迎来到我的主页";-->
+        <!--document.getElementById("demo2").innerHTML = "这是我的第一个主页";-->
+        <!--var pi = 3.14;-->
+        <!--var name = "Bill Gates!";-->
+        <!--var answer = "Yes I am!";-->
+        <!--document.write(pi + "</br>");-->
+        <!--document.write(name + "</br>");-->
+        <!--document.write(answer + "</br>");-->
+    <!--</script>-->
+
+    <!--<script>-->
+        <!--var person = {-->
+            <!--id  : 5566,-->
+            <!--firstName : "John" ,-->
+            <!--lastName : "Doe"-->
+        <!--};-->
+        <!--document.write(person.lastName + "</br>");-->
+        <!--document.write(person["lastName"] + "</br>");-->
+    <!--</script>-->
+
+    <!--<script>-->
+        <!--var person;-->
+        <!--var car = "BMW";-->
+        <!--document.write(car + "</br>");-->
+        <!--car = "";-->
+        <!--document.write(car + "</br>");-->
+        <!--car = null;-->
+        <!--document.write(car + "</br>");-->
+
+    <!--</script>-->
+
+    <p>快点它</p>
+    <button onclick="myFunction('hello','world')">try it</button>
+    <script>
+        function myFunction(value1,value2){
+            alert(value2+value1);
+            document.write(value1+value2)
+            alert(value1);
+            alert(value2);
+        }
+    </script>
+<!--https://www.w3cschool.cn/tryrun/showhtml/tryjs_function2-->
+<!--函数-->
+
+
+</body>
+</html>
