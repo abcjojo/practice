@@ -3,6 +3,181 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e1553d-5892-460b-91b2-3029842d74ed" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JS学习/S3CSchool-基础/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryTree/PostTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ccf_csp/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ccf_csp/小中大.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/MegerSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure/sort/SortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/TestPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/classAdapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/classAdapter/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/classAdapter/Strip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/objectAdapter/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/objectAdapter/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/adapterPattern/objectAdapter/Strip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/AmericaGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/ArtGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/ChineseGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/CondingGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/GirlDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/decoratorPattern/TestDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/FactoryA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/FactoryB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/IFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factoryPattern/simpleFactoryPattern/TestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/observer/ConcreteObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/observer/ConcreteSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/observer/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singletionPattern/Singletion2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singletionPattern/Singletion3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singletionPattern/Singletion4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singletionPattern/SingletionPattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamicProgramming/MaxSubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/Baoshu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/BuySauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/BuyVeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/Jump.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/MinValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/PublicKeyBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/SaleVegtabAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/SellVeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex0/Testjojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/MyArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/Testjj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heapSort/Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heapSort/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heapSort/HeapSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/ArraySort/ArraySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/IntimacyString/IntimacyString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/InverseOfLetter/ReverseOfLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/LinkedList/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/LinkedList/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/LinkedList/handlerMethiodLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreadSum/MultiThreadArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreadSum/MultiThreadArraySum2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreadSum/MultiThreadSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/deadLock/DeadLock0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/deadLock/DeadLock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/deadLock/MyDeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/deadLock/MyDeadLock1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/median/MedianSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/palindromicNumber/palindromicNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/queue/MyLinkedListQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/queue/MyQueueByArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/queue/MyQueueByStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/MegerSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/MegerSort4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/MergeSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/MergeSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/QuickSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/RandomArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/StraightInsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/StraightInsertionSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/StraightInsertionSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/sort/StraightInsertionSort4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/stack/MyArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/stack/MyLinkedListStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/stack/MyStack1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/力扣/两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/TreeLinkNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/不用加减乘除做两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/两个链表的第一个公共节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/之字形打印二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树中序遍历的下一个节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的后序遍历序列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二叉树的镜像.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二维数组找数_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/二进制中1的个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/从上往下打印二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/删除链表中重复的节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/包含min函数的栈.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/单链表找环入口.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/合并两个排序的链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/和为S的两个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/左旋转字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数值的整数次方.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中出现次数超过数组长度一半的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中只出现一次的数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的逆序数对.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数组中的重复数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/整数中1出现的次数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/旋转数组得最小数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/最小的k个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/树的子结构.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/求1到n的和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/TreeLinkNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/不用加减乘除做两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/两个链表的第一个公共节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/之字形打印二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树中序遍历的下一个节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树的后序遍历序列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树的深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二叉树的镜像.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二维数组找数_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/二进制中1的个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/从上往下打印二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/删除链表中重复的节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/包含min函数的栈.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/单链表找环入口.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/反转单链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/合并两个排序的链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/和为S的两个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数值的整数次方.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中出现次数超过数组长度一半的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中只出现一次的数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中的逆序数对.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组中的重复数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/数组奇数在前偶数在后.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/整数中1出现的次数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/旋转数组得最小数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/最小的k个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/树的子结构.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/求1到n的和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/翻转单词顺序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/重建二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/链表的倒数第k个节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/牛客剑指offer编程题/青蛙跳台阶.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/重建二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/链表的倒数第k个节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛客剑指offer编程题/青蛙跳台阶.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/oo/ShouSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/oo/求后续遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/vipkid/列表相加.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/哔哩哔哩笔试题/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/哔哩哔哩笔试题/MinNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/哔哩哔哩笔试题/ResverString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/哔哩哔哩笔试题/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/快手/T2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试题/滴滴笔试/算式转移.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/CLient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPServer.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,9 +197,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPServer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/socket/TCPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="476">
               <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -34,10 +209,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPClient.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/socket/TCPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="28" column="9" selection-start-line="21" selection-start-column="28" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/TCP/CLient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <caret line="33" column="107" selection-start-line="33" selection-start-column="107" selection-end-line="33" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,10 +233,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/CLient.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/TCP/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="107" lean-forward="true" selection-start-line="33" selection-start-column="107" selection-end-line="33" selection-end-column="107" />
+            <state relative-caret-position="85">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +245,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/Server.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TheDoubleChromospherePlan/RandomDoubleBall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="80" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="80" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,10 +257,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -104,12 +291,20 @@
         <option value="$PROJECT_DIR$/src/JS学习/S3CSchool-基础/1.html" />
         <option value="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/kk.java" />
         <option value="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/r.java" />
-        <option value="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/Server.java" />
         <option value="$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPServer.java" />
         <option value="$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPClient.java" />
         <option value="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/CLient.java" />
+        <option value="$PROJECT_DIR$/src/网络编程/HttpServer/TCP/Server.java" />
+        <option value="$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1280" />
@@ -125,7 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,47 +336,13 @@
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TheDoubleChromospherePlan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
-              <item name="Server.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer" type="462c0819:PsiDirectoryNode" />
-              <item name="HttpServer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -201,7 +361,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597743857478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597759367653" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -215,7 +375,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -235,6 +395,20 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RandomDoubleBall.test">
+    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.重建二叉树" />
+      <module name="exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CLient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="网络编程.HttpServer.TCP.CLient" />
       <module name="exercise" />
@@ -291,20 +465,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.重建二叉树" />
-      <module name="exercise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="牛客剑指offer编程题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="不用加减乘除做两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.不用加减乘除做两数之和" />
       <module name="exercise" />
@@ -325,6 +485,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="翻转单词顺序" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客剑指offer编程题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
+      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.翻转单词顺序" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomDoubleBall.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <extension name="coverage">
@@ -337,22 +513,6 @@
       <option name="MAIN_CLASS_NAME" value="TheDoubleChromospherePlan.RandomDoubleBall" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="翻转单词顺序" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="牛客剑指offer编程题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="牛客剑指offer编程题" />
-      <option name="MAIN_CLASS_NAME" value="牛客剑指offer编程题.翻转单词顺序" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -521,10 +681,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.重建二叉树" />
       <item itemvalue="Application.Server" />
       <item itemvalue="Application.CLient" />
       <item itemvalue="Application.TCPServer" />
       <item itemvalue="Application.TCPClient" />
+      <item itemvalue="JUnit.删除链表中重复的节点.test" />
+      <item itemvalue="JUnit.翻转单词顺序" />
       <item itemvalue="JUnit.RandomDoubleBall.test" />
     </list>
     <recent_temporary>
@@ -660,7 +823,8 @@
       <workItem from="1595853124578" duration="583000" />
       <workItem from="1595858906666" duration="4000" />
       <workItem from="1596644012290" duration="1606000" />
-      <workItem from="1597042303318" duration="21679000" />
+      <workItem from="1597042303318" duration="24600000" />
+      <workItem from="1597807567279" duration="377000" />
     </task>
     <servers />
   </component>
@@ -697,23 +861,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23285000" />
+    <option name="totallyTimeSpent" value="26583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14495632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14614774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4167883" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4167883" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29489052" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -721,14 +884,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2591241" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32962668" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -739,226 +903,206 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="128" y="0" key="#Project_Structure" timestamp="1595425449681">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1595425449681" />
-    <state width="1238" height="246" key="GridCell.Tab.0.bottom" timestamp="1595469675077">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1595469675077" />
-    <state width="1238" height="246" key="GridCell.Tab.0.center" timestamp="1595469675075">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1595469675075" />
-    <state width="1238" height="246" key="GridCell.Tab.0.left" timestamp="1595469675075">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1595469675075" />
-    <state width="1238" height="246" key="GridCell.Tab.0.right" timestamp="1595469675076">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1595469675076" />
-    <state width="1238" height="246" key="GridCell.Tab.1.bottom" timestamp="1595469675080">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1595469675080" />
-    <state width="1238" height="246" key="GridCell.Tab.1.center" timestamp="1595469675078">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1595469675078" />
-    <state width="1238" height="246" key="GridCell.Tab.1.left" timestamp="1595469675077">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1595469675077" />
-    <state width="1238" height="246" key="GridCell.Tab.1.right" timestamp="1595469675079">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="246" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1595469675079" />
-    <state x="128" y="0" key="SettingsEditor" timestamp="1595425465393">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1595425465393" />
+    <state x="128" y="0" key="#Project_Structure" />
+    <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.0.bottom" />
+    <state width="1238" height="246" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.0.center" />
+    <state width="1238" height="246" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.0.left" />
+    <state width="1238" height="246" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.0.right" />
+    <state width="1238" height="246" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.1.bottom" />
+    <state width="1238" height="246" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.1.center" />
+    <state width="1238" height="246" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.1.left" />
+    <state width="1238" height="246" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" />
+    <state width="1238" height="246" key="GridCell.Tab.1.right" />
+    <state width="1238" height="246" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" />
+    <state x="128" y="0" key="SettingsEditor" />
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort2.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort2.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort2.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort2.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/sort/QuickSort2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sort/QuickSort2.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/dataStructure/sort/InsertionSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dataStructure/sort/InsertionSort.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicProgramming/MaxSubArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dynamicProgramming/MaxSubArray.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/heapSort/HeapSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/heapSort/HeapSort.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/heapSort/HeapSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/heapSort/HeapSort.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/数组奇数在前偶数在后.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/反转单链表.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/反转单链表.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/反转单链表.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/反转单链表.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/反转单链表.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/翻转单词顺序.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/翻转单词顺序.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/翻转单词顺序.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/翻转单词顺序.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/牛客剑指offer编程题/翻转单词顺序.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/牛客剑指offer编程题/翻转单词顺序.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="89" />
@@ -980,37 +1124,25 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JS学习/S3CSchool-基础/1.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JS学习/S3CSchool-基础/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
           <caret line="181" selection-start-line="181" selection-end-line="181" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/kk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/r.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/HttpServer.java">
+    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/kk.java" />
+    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/r.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/HttpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-247">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/socket/TCPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="476">
           <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1018,40 +1150,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/socket/TCPClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/socket/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="9" selection-start-line="21" selection-start-column="28" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/TCP/CLient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <caret line="33" column="107" selection-start-line="33" selection-start-column="107" selection-end-line="33" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/CLient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/网络编程/HttpServer/TCP/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="107" lean-forward="true" selection-start-line="33" selection-start-column="107" selection-end-line="33" selection-end-column="107" />
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络编程/HttpServer/TCP/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TheDoubleChromospherePlan/RandomDoubleBall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="80" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="80" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TheDoubleChromospherePlan/RandomDoubleBall.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
